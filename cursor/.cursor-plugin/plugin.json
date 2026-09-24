@@ -1,0 +1,6 @@
+{
+  "name": "upfunnels",
+  "description": "Conecta o Cursor ao MCP da UpFunnels.",
+  "version": "1.0.0",
+  "mcpServers": "./mcp.json"
+}

@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "upfunnels": {
+      "type": "http",
+      "url": "https://mcp.upfunnels.com/mcp"
+    }
+  }
+}
