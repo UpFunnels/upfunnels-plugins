@@ -1,6 +1,11 @@
 {
   "name": "upfunnels",
-  "description": "Conecta o Cursor ao MCP da UpFunnels.",
+  "description": "Conecta o Cursor ao MCP da UpFunnels para consultar e alterar contatos, leads, conversas, funis, páginas, domínios, pixels e funcionários de IA da organização.",
   "version": "1.0.0",
+  "author": {
+    "name": "UpFunnels"
+  },
+  "homepage": "https://upfunnels.com",
+  "logo": "assets/logo.svg",
   "mcpServers": "./mcp.json"
 }
