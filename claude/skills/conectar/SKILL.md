@@ -28,3 +28,7 @@ Em Configurações → Plug-ins → MCPs, adicione a URL e execute a autenticaç
 ## Organização
 
 A organização é a do consentimento. Quem autoriza escolhe a organização naquela tela.
+
+## Dá para fazer?
+
+Para saber se uma tarefa é possível pelo MCP ou se o token tem a permissão, use `discover`. Ele aponta as ferramentas e a ordem, ou diz não com o motivo para avisar o usuário. Escrita segue o cargo de quem autorizou: cargo sem a área (por exemplo, Vendas em domínios) não escreve nela.
